@@ -3,3 +3,6 @@ console.log(arr);
 
 arr.pop();
 console.log(arr);
+
+arr.push(50);
+console.log(arr);
