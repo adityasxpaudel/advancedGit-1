@@ -6,4 +6,4 @@ console.log(arr);
 
 arr.push(50);
 console.log(arr);
-console.log(arr)
+console.log(arr);
